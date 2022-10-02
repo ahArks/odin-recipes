@@ -1,0 +1,22 @@
+body {
+    background-color: #C6EBC9;
+    min-height: 100%;
+}
+
+.font {
+    font-family: Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.nav-bar {
+    list-style: none;
+    text-align: center;
+}
+
+.nav-bar li {
+    display: inline-block;
+    margin: 10px;
+}
